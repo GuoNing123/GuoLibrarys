@@ -1,0 +1,11 @@
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--name URI    path subdir-->
+    <!-- 内存卡：context.getCacheDir()-->
+    <cache-path name="cache" path="."/>
+
+    <!-- 内存卡：context.getFileDir()-->
+    <files-path  name="files_download" path="Download" />
+
+    <!-- SD卡 context.getExternalFilesDir()-->
+    <external-files-path name="external_files_download" path="Download" />
+</paths>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialog_colorPrimary">#009955</color>
+    <color name="dialog_colorTitleText">#ffffff</color>
+    <color name="dialog_colorOptionText">#3377BB</color>
+    <color name="dialog_colorDivider">#333333</color>
+    <color name="notification_colorTitle">#000000</color>
+</resources>

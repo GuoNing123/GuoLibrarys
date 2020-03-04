@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VersionUpgradeLibrary</string>
+    <string name="dialog_title">更新提醒</string>
+    <string name="dialog_default_content">有新版本发布啦，赶紧升级体验吧</string>
+    <string name="dialog_no_upgrade">默默忽略</string>
+    <string name="dialog_later_upgrade">下次再说</string>
+    <string name="dialog_upgrade">立即升级</string>
+
+    <string name="notification_title">下载</string>
+</resources>
